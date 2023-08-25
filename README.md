@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, My name is Nev Ezekiel V.<br>🔭 I’m currently working on my portfolio site<br>👯 I’m looking to collaborate on anything web development!<br>🌱 I’m currently exploring and getting my hands dirty with React.js<br>⚡ Fun fact: I sabi code die!<br><br>
+👋 Hi, My name is Nev Ezekiel V.<br>👯 I’m looking to collaborate on anything web development!<br>🌱 I’m currently exploring and getting my hands dirty with React.js and Apis<br>⚡ Fun fact: I sabi code die!<br><br>
 
 
 ## 🌐 Socials:
