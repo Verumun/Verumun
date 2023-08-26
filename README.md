@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, My name is Nev Ezekiel V.<br>👯 I’m looking to collaborate on anything web development!<br>🌱 I’m currently exploring and getting my hands dirty with React.js and Apis<br>⚡ Fun fact: I sabi code die!<br><br>
+👋 Hi, My name is Nev Ezekiel V.<br>👯 I’m looking to collaborate on anything web development!<br>🌱 I’m currently exploring and getting my hands dirty with React.js and Apis<br>⚡ In my frontend development approach, I blend creative design with meticulous coding, crafting user-centric interfaces that seamlessly integrate with backend systems, all while staying adaptable to emerging technologies and maintaining a strong focus on user experience.!<br><br>
 
 
 ## 🌐 Socials:
